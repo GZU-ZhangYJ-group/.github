@@ -2,6 +2,8 @@
 
 E-mail: [![Gmail Badge](https://img.shields.io/badge/-zyj6667@126.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zyj6667@126.com)](mailto:zyj6667@126.com)
 ORCID: 0000-0002-7534-1219
+DBLP: https://dblp.org/pid/43/5828-7.html
+主页: http://cs.gzu.edu.cn/2021/1210/c17588a163831/page.htm
 
 
 
