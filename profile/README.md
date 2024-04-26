@@ -8,6 +8,9 @@
 
 - [![Gmail Badge](https://img.shields.io/badge/-zyj6667@126.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zyj6667@126.com)](mailto:zyj6667@126.com)
 
+- 毕业生去向：就业单位包括百度、烟草局、银行、航天十院、深信服、军队等重要机构或知名企业。在香港理工大学、厦门大学、四川大学、中南大学、上海财经大学等知名学府继续攻读博士学位。
+
+更新时间：2024年4月26日
 
 <!--
 
