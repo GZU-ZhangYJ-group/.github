@@ -1,6 +1,7 @@
 ## 贵州大学张永军老师团队 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-zyj6667@126.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zyj6667@126.com)](mailto:zyj6667@126.com)
+E-mail: [![Gmail Badge](https://img.shields.io/badge/-zyj6667@126.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zyj6667@126.com)](mailto:zyj6667@126.com)
+ORCID: 0000-0002-7534-1219
 
 
 
