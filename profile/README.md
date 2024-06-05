@@ -12,7 +12,7 @@
 
 ### 近期新闻
 - 2024-05 祝贺21级硕士生[龙伟](https://scholar.google.com/citations?user=CsVTBJoAAAAJ&hl=en)被电子科技大学录取攻读博士学位
-- 2024-05 21级硕士生王不凡的论文"Exploiting local detail in single image super-resolution via hypergraph convolution"被Multimedia Systems录用
+- 2024-05 21级硕士生王不凡的论文["Exploiting local detail in single image super-resolution via hypergraph convolution"](https://link.springer.com/article/10.1007/s00530-024-01355-3)被Multimedia Systems录用
 - 2024-04 祝贺21级硕士生[姚和](https://scholar.google.com/citations?user=c0qjMAMAAAAJ&hl=en)被四川大学录取攻读博士学位
 - 2024-03 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文["MoCha-Stereo: Motif Channel Attention Network for Stereo Matching"](http://gs.gzu.edu.cn/2024/0315/c13269a213613/page.htm)被CVPR录用
 - 2024-02 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文["Feature distribution normalization network for multi-view stereo"](https://link.springer.com/article/10.1007/s00371-024-03334-1)被The Visual Computer录用
