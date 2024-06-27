@@ -13,6 +13,7 @@
 ### 近期新闻
 - 2024-06 22级硕士生吴亚波的论文"Distribution-Decouple Learning Network: An Innovative Approach for Single Image Dehazing with Spatial and Frequency Decoupling"被The Visual Computer录用
 - 2024-06 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Multi-Dimensional Manifolds Consistency Regularization for semi-supervised remote sensing semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S095070512400666X)被KBS录用
+- 2024-05 祝贺21级硕士生张雪雪被[贵州大学](http://cs.gzu.edu.cn/2024/0511/c16270a217762/page.htm)录取攻读博士学位
 - 2024-05 祝贺21级硕士生[龙伟](https://scholar.google.com/citations?user=CsVTBJoAAAAJ&hl=en)被[电子科技大学](https://www.scse.uestc.edu.cn/info/1015/15961.htm)录取攻读博士学位
 - 2024-05 21级硕士生王不凡的论文["Exploiting local detail in single image super-resolution via hypergraph convolution"](https://link.springer.com/article/10.1007/s00530-024-01355-3)被Multimedia Systems录用
 - 2024-04 祝贺21级硕士生[姚和](https://scholar.google.com/citations?user=c0qjMAMAAAAJ&hl=en)被[四川大学](https://cs.scu.edu.cn/info/1247/18361.htm)录取攻读博士学位
