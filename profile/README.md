@@ -11,7 +11,7 @@
 - 毕业生去向：在香港理工大学、四川大学、厦门大学、中南大学、电子科技大学、西北农林科技大学、上海财经大学、贵州大学等知名学府继续攻读博士学位。就业单位包括高校、百度、烟草局、银行、航天十院、深信服、军队等重要机构或知名企业。
 
 ### 近期新闻
-- 2024-07 21级硕士生王不凡的论文"Joint features-Guided Linear Transformer and CNN for Efficient Image Super-Resolution"被International Journal of Machine Learning and Cybernetics: Decision on your manuscript录用
+- 2024-07 21级硕士生王不凡的论文"Joint features-Guided Linear Transformer and CNN for Efficient Image Super-Resolution"被International Journal of Machine Learning and Cybernetics录用
 - 2024-06 22级硕士生吴亚波的论文["Distribution-Decouple Learning Network: An Innovative Approach for Single Image Dehazing with Spatial and Frequency Decoupling"](https://link.springer.com/article/10.1007/s00371-024-03556-3)被The Visual Computer录用
 - 2024-06 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Multi-Dimensional Manifolds Consistency Regularization for semi-supervised remote sensing semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S095070512400666X)被KBS录用
 - 2024-05 祝贺21级硕士生张雪雪被[贵州大学](http://cs.gzu.edu.cn/2024/0511/c16270a217762/page.htm)录取攻读博士学位
@@ -26,7 +26,7 @@
 - ......更多信息详见[张永军老师主页](http://cs.gzu.edu.cn/2021/1210/c17588a163831/page.htm)
 
 
-最后更新时间：2024年6月18日
+最后更新时间：2024年7月3日
 
 <!--
 
