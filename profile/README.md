@@ -21,8 +21,8 @@
 - 2024-03 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文["MoCha-Stereo: Motif Channel Attention Network for Stereo Matching"](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_MoCha-Stereo_Motif_Channel_Attention_Network_for_Stereo_Matching_CVPR_2024_paper.html)被CVPR录用
 - 2024-02 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文["Feature distribution normalization network for multi-view stereo"](https://link.springer.com/article/10.1007/s00371-024-03334-1)被The Visual Computer录用
 - 2024-01 21级硕士生简华春的论文["Dual-branch feature fusion dehazing network via multispectral channel attention"](https://link.springer.com/article/10.1007/s13042-023-02055-6)被International Journal of Machine Learning and Cybernetics录用
-- 2024-01 20级硕士生欧阳婷的论文["A multi-color and multistage collaborative network guided by refined transmission prior for underwater image enhancement"](https://link.springer.com/article/10.1007/s00371-023-03215-z)被The Visual Computer录用
-- 2024-01 祝贺16级硕士生肖伶被安徽建筑大学聘用为讲师
+- 2024-01 20级23届硕士生欧阳婷的论文["A multi-color and multistage collaborative network guided by refined transmission prior for underwater image enhancement"](https://link.springer.com/article/10.1007/s00371-023-03215-z)被The Visual Computer录用
+- 2024-01 祝贺16级19届硕士生肖伶被安徽建筑大学聘用为讲师
 - ......更多信息详见[张永军老师主页](http://cs.gzu.edu.cn/2021/1210/c17588a163831/page.htm)
 
 
