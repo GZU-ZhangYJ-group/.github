@@ -10,7 +10,7 @@
 
 - 联系邮箱：[![Gmail Badge](https://img.shields.io/badge/-zyj6667@126.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zyj6667@126.com)](mailto:zyj6667@126.com)
 
-- 毕业生去向：在香港理工大学、北京大学深圳研究院、四川大学、厦门大学、中南大学、电子科技大学、西北农林科技大学、上海财经大学、贵州大学、福州大学等知名学府继续攻读博士学位。就业单位包括高校、百度、烟草局、银行、航天十院、深信服、军队等重要机构或知名企业。
+- 毕业生去向：在香港理工大学、北京大学深圳研究院、四川大学、厦门大学、中南大学、电子科技大学、西北农林科技大学、上海财经大学、贵州大学、福州大学等知名学府继续深造。就业单位包括高校、百度、烟草局、银行、航天十院、深信服、军队等重要机构或知名企业。
 
 ### 近期新闻
 - 2024-07 21级硕士生王不凡的论文"Joint features-Guided Linear Transformer and CNN for Efficient Image Super-Resolution"被International Journal of Machine Learning and Cybernetics录用
