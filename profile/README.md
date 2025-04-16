@@ -14,11 +14,11 @@
 
 ### 近期新闻
 - 2024-10 21级本科生李明峻被保送至北京大学攻读[硕士学位](https://admission.pku.edu.cn/docs/20241022162249400973.pdf)
-- 2024-09 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Beyond low-dimensional features: Enhancing semi-supervised medical image semantic segmentation with advanced consistency learning techniques"](https://www.sciencedirect.com/science/article/abs/pii/S0957417424023236)被Expert Systems with Applications录用
-- 2024-09 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文"Surface Depth Estimation from Multi-view Stereo Satellite Images with Distribution Contrast Network"被IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing录用
+- 2024-09 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Beyond low-dimensional features: Enhancing semi-supervised medical image semantic segmentation with advanced consistency learning techniques"](https://www.sciencedirect.com/science/article/abs/pii/S0957417424023236)被TOP期刊Expert Systems with Applications录用
+- 2024-09 22级硕士生[陈子扬](https://scholar.google.com/citations?user=t64KgqAAAAAJ&hl=en&oi=sra)的论文"Surface Depth Estimation from Multi-view Stereo Satellite Images with Distribution Contrast Network"被TOP期刊IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing录用
 - 2024-07 21级硕士生王不凡的论文["Joint features-Guided Linear Transformer and CNN for Efficient Image Super-Resolution"](https://link.springer.com/article/10.1007/s13042-024-02277-2)被International Journal of Machine Learning and Cybernetics录用
 - 2024-06 22级硕士生吴亚波的论文["Distribution-Decouple Learning Network: An Innovative Approach for Single Image Dehazing with Spatial and Frequency Decoupling"](https://link.springer.com/article/10.1007/s00371-024-03556-3)被The Visual Computer录用
-- 2024-06 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Multi-Dimensional Manifolds Consistency Regularization for semi-supervised remote sensing semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S095070512400666X)被Knowledge-Based Systems录用
+- 2024-06 22级硕士生[卢玉杰](https://orcid.org/0009-0008-9786-5946)的论文["Multi-Dimensional Manifolds Consistency Regularization for semi-supervised remote sensing semantic segmentation"](https://www.sciencedirect.com/science/article/pii/S095070512400666X)被TOP期刊Knowledge-Based Systems录用
 - 2024-05 祝贺21级硕士生张雪雪被[贵州大学](http://cs.gzu.edu.cn/2024/0511/c16270a217762/page.htm)录取攻读博士学位
 - 2024-05 祝贺21级硕士生[龙伟](https://scholar.google.com/citations?user=CsVTBJoAAAAJ&hl=en)被[电子科技大学](https://diggers.ai/people/)录取攻读[博士学位](https://www.scse.uestc.edu.cn/info/1015/15961.htm)
 - 2024-05 21级硕士生王不凡的论文["Exploiting local detail in single image super-resolution via hypergraph convolution"](https://link.springer.com/article/10.1007/s00530-024-01355-3)被Multimedia Systems录用
